@@ -55,6 +55,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Games
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Open source chess game with online gameplay and challenges.
+- [BingoRoom: Bingo Card Maker](https://apps.apple.com/us/app/bingoroom-bingo-card-maker/id6787175804) - Create bingo cards, run a caller, and track called numbers for casual games at home, school, or small events.
 
 ## Journalling
 
